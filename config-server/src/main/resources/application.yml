@@ -4,6 +4,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/rajeevjha/ConfigData
+          uri: https://github.com/rajeevjha/MicroserviceMovie/tree/master/config-data
 server:
   port: 8888
