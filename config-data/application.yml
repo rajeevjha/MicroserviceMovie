@@ -1,4 +1,5 @@
 ---
+testConfig: SUCCESSFUL
 eureka:
   client:
     serviceUrl:
